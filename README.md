@@ -1,2 +1,4 @@
-#GAN-mnist
-The generated imgaes using GAN are in the Output folder.
+# GAN-mnist
+
+
+The generated images using GAN are in the Output folder.
